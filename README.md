@@ -2,9 +2,9 @@
 
 ## Software Engineer with 9+ years of experience developing multiplatform websites/apps in 6 companies
 
-⌛ Eager to re-enter the tech industry after exploring professional opportunities in Holistic Consulting - enhancing collaboration, adaptability, and time management skills - with my 9+ years of experience, strengthened by individual study of latest technologies and trends.
+⌛ Eager to re-enter the tech industry after exploring professional opportunities in Holistic Consulting - enhancing collaboration, adaptability, and time management skills - with my 9+ years of experience, strengthened by individual study of the latest technologies and trends.
 
-📊 Previousely cut projects contribution approval times by 66% and reduced related communication timing by 25% at Avast & NortonLifeLock (Gen Digital). Digital company and agencies consultant, firm owner.
+📊 Previously cut projects' contribution approval times by 66% and reduced related communication timing by 25% at Avast & NortonLifeLock (Gen Digital). Digital companies and agencies consultant, firm owner.
 
 📚 Enthusiast scholar and martial artist ☯️ 
 
@@ -12,9 +12,9 @@
 
 #### Avast/NortonLifeLock/Gen Digital
 
-🔎 Software Engineering Research & Development of new web technologies and their application on internal/external projects (B2B/B2C) through design, implementation and technical documentation drafting via Scrum framework
+🔎 Software Engineering Research & Development of new web technologies and their application on internal/external projects (B2B/B2C) through design, implementation, and technical documentation drafting via Scrum framework
 
-👥 International remote collaboration at inter-departmental level - Quality Assurance, Design, Product Management and Lead - during development phase and presentattion stage 
+👥 International remote collaboration at inter-departmental level - Quality Assurance, Design, Product Management, and Lead - during the development and presentation stages
 
 ⌨️ Fullstack development of 5+ JavaScript/TypeScript React/Svelte Frontend and NodeJS/Express/MongoDB/PostgreSQL Backend projects/POCs - web applications/extensions, APIs
 
