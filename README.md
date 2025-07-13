@@ -24,23 +24,23 @@
 
 #### Frontend
 
-HTML, CSS, SASS, Compass, Flexbox, TailwindCSS, Material-UI, BEM, JavaScript, Motion, Typescript, React, NextJS, Redux, SEO
+🗔 HTML, CSS, SASS, Compass, Flexbox, TailwindCSS, Material-UI, BEM, JavaScript, Motion, Typescript, React, NextJS, Redux, SEO
 
 #### Backend
 
-NodeJS, Express, SQL/NoSQL, PostgreSQL, MongoDB, Swagger, GraphQL
+🛢️ NodeJS, Express, SQL/NoSQL, PostgreSQL, MongoDB, Swagger, GraphQL
 
 #### Tools
 
-Jest, Testing Library, Cypress, Apollo, Postman, Workbox, GitHub, Husky, Docker, Google Analytics/Tag Manager/Cloud Console, AWS, Vercel, Render
+🛠️ Jest, Testing Library, Cypress, Apollo, Postman, Workbox, GitHub, Husky, Docker, Google Analytics/Tag Manager/Cloud Console, AWS, Vercel, Render
 
 #### Other
 
-Bash, GitFlow, DevOps
+⬛ Bash, GitFlow, DevOps
 
 ### Contact 
 
-Reach me on [LinkedIn](https://linkedin.com/in/lucatide).
+📇 Reach me on **[LinkedIn](https://linkedin.com/in/lucatide)**.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lc-2025&show_icons=true&theme=blue-green&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/lc-2025/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-2025&lang_count=20&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
