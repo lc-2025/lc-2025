@@ -41,7 +41,7 @@
 
 #### Tools
 
-🛠️ Jest, Testing Library, Cypress, Apollo, Postman, Workbox, GitHub, Husky, Docker, Google Analytics/Tag Manager/Cloud Console, AWS, Vercel, Render
+🛠️ Jest, Testing Library, Cypress, Apollo, Postman, Workbox, GitHub, Husky, Docker, Google Analytics/Tag Manager/Cloud Console & Platform, AWS, Vercel, Render
 
 #### Other
 
