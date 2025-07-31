@@ -56,6 +56,14 @@
 
 ### Featured
 
+#### [LC 2.0](https://github.com/lc-2025/lc-2.0)
+
+📄 NextJS + Sanity Full-stack application
+
+ℹ️ Professional portfolio website
+
+🛠️ **[Tech Stack](https://github.com/lc-2025/lc-2.0?tab=readme-ov-file#stack)**
+
 #### [eNeFTi](https://github.com/lc-2025/enefti)
 
 📄 MERN full-stack application
