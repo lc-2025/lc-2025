@@ -58,9 +58,9 @@
 
 #### [LC 2.0](https://github.com/lc-2025/lc-2.0)
 
-📄 NextJS + Sanity Full-stack application
+📄 NextJS + Sanity full-stack website
 
-ℹ️ Professional portfolio website
+ℹ️ Professional portfolio
 
 🛠️ **[Tech Stack](https://github.com/lc-2025/lc-2.0?tab=readme-ov-file#stack)**
 
