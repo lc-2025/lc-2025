@@ -1,77 +1,48 @@
-```
- ░██████    ░████    ░██████  ░████████    ░██████████ ░███████   ░██████░██████████░██████  ░██████   ░███    ░██ 
-░██   ░██  ░██ ░██  ░██   ░██ ░██          ░██         ░██   ░██    ░██      ░██      ░██   ░██   ░██  ░████   ░██ 
-      ░██ ░██ ░████       ░██ ░███████     ░██         ░██    ░██   ░██      ░██      ░██  ░██     ░██ ░██░██  ░██ 
-  ░█████  ░██░██░██   ░█████        ░██    ░█████████  ░██    ░██   ░██      ░██      ░██  ░██     ░██ ░██ ░██ ░██ 
- ░██      ░████ ░██  ░██      ░██   ░██    ░██         ░██    ░██   ░██      ░██      ░██  ░██     ░██ ░██  ░██░██ 
-░██        ░██ ░██  ░██       ░██   ░██    ░██         ░██   ░██    ░██      ░██      ░██   ░██   ░██  ░██   ░████ 
-░████████   ░████   ░████████  ░██████     ░██████████ ░███████   ░██████    ░██    ░██████  ░██████   ░██    ░███ 
-```
-# Software Engineer <ↄ React + NodeJS
+![LC - Software Engineer Fullstack - React, Node.js, Typescript](https://media.licdn.com/dms/image/v2/D5616AQEsrTTj9UVhFA/profile-displaybackgroundimage-shrink_350_1400/B56Zh5WGSQHUAY-/0/1754382493569?e=1757548800&v=beta&t=DHr31SG5LMewlTl0kZkaWdxcpuN8qoeVV90JBei9Bn8 "LC - Software Engineer Fullstack - React, Node.js, Typescript")
+# Software Engineer
+**React, Node.js, Typescript**
 
-## Software Engineer with 9+ years of experience developing multiplatform websites/apps in 6 companies
+## About
 
-⌛ Eager to re-enter the tech industry after exploring professional opportunities in Holistic Consulting - enhancing collaboration, adaptability, and time management skills - with my 9+ years of experience, strengthened by individual study of the latest technologies and trends.
+Software Engineer with 9+ years of full-stack experience, delivering 40+ projects, including a Vue/Laravel IT inventory app that optimized HR processing time by 50% and Italy’s leading whiskey e-commerce (2017-2019). Enhanced collaboration, adaptability, and time management skills through professional development in consulting, returning to tech with updated expertise in React, Node.js, and DevOps via self-study and certifications. Passionate about building scalable, user-focused solutions.
 
-📊 Previously cut projects' contribution approval times by 66% and reduced related communication timing by 25% at Avast & NortonLifeLock (Gen Digital). Digital companies and agencies consultant, firm owner.
+💬 "I had the opportunity to work alongside Luca and found in him a great capacity for cohesion and participation in the team, as well as excellent technical preparation and the ability to innovate and find the most suitable solution. Humanly, a very pleasant person with whom to have a chat in moments of exchanging ideas.” – Alessio Luparelli, CTO at Greylab
 
-📚 Enthusiast scholar and martial artist ☯️ 
+## Work
 
-### Work
+### Personal Development | Freelance
+📅 January 2025 - Present
+- Built a fullstack portfolio with TypeScript, Next.js, GSAP, and Sanity, achieving a 95+ Lighthouse score for accessibility and performance, deployed via Vercel DevOps pipeline **[🔗 LC 2.0](https://github.com/lc-2025/lc-2.0)**
+- Developed a crypto e-commerce platform with TypeScript, Next.js, Express, GraphQL, and MongoDB, deployed on Vercel/Render with Docker **[🔗 eNeFTi](https://github.com/lc-2025/enefti)**
+- Strengthened expertise in modern web development through self-study
 
-#### Avast/NortonLifeLock/Gen Digital
+### Gen (Avast/NortonLifeLock) | Senior Software Engineer
+📅 May 2021 - October 2023
+- Developed 9+ web apps, extensions, and APIs using React, Svelte, TypeScript, Express, and MongoDB/PostgreSQL, reducing approval times by 66% with a JavaScript Slack/Teams notification extension.
+- Created a TypeScript NPM package for automated project configurations, streamlining cross-functional management.
+- Led R&D presentations for 20+ participants and mentored teams in pair-programming sessions, enhancing collaboration.
 
-🔎 Software Engineering Research & Development of new web technologies and their application on internal/external projects (B2B/B2C) through design, implementation, and technical documentation drafting via Scrum framework
+## Featured Projects
+### [LC 2.0](https://github.com/lc-2025/lc-2.0)
+Fullstack portfolio built with TypeScript, Next.js, GSAP, and Sanity, optimized for responsive UI/UX and accessibility (95+ Lighthouse score). Deployed via Vercel with a DevOps pipeline.  
+🛠️ [Tech Stack](https://github.com/lc-2025/lc-2.0?tab=readme-ov-file#stack) | [Website](https://lucati.dev)
 
-👥 International remote collaboration at inter-departmental level - Quality Assurance, Design, Product Management, and Lead - during the development and presentation stages
+### [eNeFTi](https://github.com/lc-2025/enefti)
+Fullstack crypto e-commerce platform using TypeScript, Next.js, Express, GraphQL, and MongoDB, focused on usability and deployed on Vercel/Render with Docker.  
+🛠️ [Tech Stack](https://github.com/lc-2025/enefti?tab=readme-ov-file#stack) | [Live Demo](https://enefti-demo.com)
 
-⌨️ Fullstack development of 5+ JavaScript/TypeScript React/Svelte Frontend and NodeJS/Express/MongoDB/PostgreSQL Backend projects/POCs - web applications/extensions, APIs
+## Coding Challenges
+Showcasing problem-solving skills through practical coding challenges.
 
-🔁 DevOps through CI/CD pipelines for versioned containerized projects/POCs via GitHub/Docker/TeamCity/Google Cloud Platform
+[![eDreams Challenge](https://github-readme-stats.vercel.app/api/pin/?username=lc-2025&repo=edreams-challenge&theme=transparent)](https://github.com/lc-2025/edreams-challenge)
 
-### Skills
+## Skills
+| **Languages** | **Frontend** | **Backend** | **Testing** | **DevOps** | **Tools** | **Other** |
+|---------------|--------------|-------------|-------------|------------|-----------|-----------|
+| JavaScript, TypeScript, Sass, SQL, GraphQL | React, Next.js, Redux, TailwindCSS, Material-UI, BEM, Motion, GSAP, SEO | NodeJS, Express, Sanity, PostgreSQL, MongoDB, REST | Jest, Cypress, Testing Library | Docker, GitHub Actions, Google Cloud Platform, AWS, Vercel, Render | Workbox, Apollo, Postman, Swagger, Git, Husky, Google Analytics/Tag Manager/Cloud Console | Bash, GitFlow
 
-#### Frontend
-
-🗔 HTML, CSS, SASS, Compass, Flexbox, TailwindCSS, Material-UI, BEM, JavaScript, Motion, Typescript, React, NextJS, Redux, SEO
-
-#### Backend
-
-🛢️ NodeJS, Express, SQL/NoSQL, PostgreSQL, MongoDB, Swagger, GraphQL
-
-#### Tools
-
-🛠️ Jest, Testing Library, Cypress, Apollo, Postman, Workbox, GitHub, Husky, Docker, Google Analytics/Tag Manager/Cloud Console & Platform, AWS, Vercel, Render
-
-#### Other
-
-⬛ Bash, GitFlow, DevOps
-
-### Contact 
-
-📇 Reach me on **[LinkedIn](https://linkedin.com/in/lucatide)**.
+## Connect
+📇 Passionate about pushing the boundaries of full-stack development with React and Node.js. Reach out on [LinkedIn](https://linkedin.com/in/lucatide) to collaborate on exciting projects
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lc-2025&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-2025&theme=transparent&lang_count=20&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-### Featured
-
-#### [LC 2.0](https://github.com/lc-2025/lc-2.0)
-
-📄 NextJS + Sanity full-stack website
-
-ℹ️ Professional portfolio
-
-🛠️ **[Tech Stack](https://github.com/lc-2025/lc-2.0?tab=readme-ov-file#stack)**
-
-#### [eNeFTi](https://github.com/lc-2025/enefti)
-
-📄 MERN full-stack application
-
-ℹ️ NFTs E-Commerce Demo
-
-🛠️ **[Tech Stack](https://github.com/lc-2025/enefti?tab=readme-ov-file#stack)**
-
-### Coding Challenges
-
-[![eDreams Challenge](https://github-readme-stats.vercel.app/api/pin/?username=lc-2025&repo=edreams-challenge&theme=transparent)](https://github.com/lc-2025/edreams-challenge)
