@@ -4,7 +4,7 @@
 
 ## About
 
-Software Engineer with 9+ years of full-stack experience, delivering 40+ projects, including a Vue/Laravel IT inventory app that optimized HR processing time by 50% and Italy’s leading whiskey e-commerce (2017-2019). Enhanced collaboration, adaptability, and time management skills through professional development in consulting, returning to tech with updated expertise in React, Node.js, and DevOps via self-study and certifications. Passionate about building scalable, user-focused solutions.
+Software Engineer fullstack with 9+ years of experience, delivering 40+ projects, including a Vue/Laravel IT inventory app that optimized HR processing time by 50% and Italy’s leading whiskey e-commerce (2017-2019). Enhanced collaboration, adaptability, and time management skills through professional development in consulting, returning to tech with updated expertise in React, Node.js, and DevOps via self-study and certifications. Passionate about building scalable, user-focused solutions.
 
 💬 "I had the opportunity to work alongside Luca and found in him a great capacity for cohesion and participation in the team, as well as excellent technical preparation and the ability to innovate and find the most suitable solution. Humanly, a very pleasant person with whom to have a chat in moments of exchanging ideas.” – Alessio Luparelli, CTO at Greylab
 
@@ -35,6 +35,7 @@ Fullstack crypto e-commerce platform using TypeScript, Next.js, Express, GraphQL
 Showcasing problem-solving skills through practical coding challenges.
 
 [![eDreams Challenge](https://github-readme-stats.vercel.app/api/pin/?username=lc-2025&repo=edreams-challenge&theme=transparent)](https://github.com/lc-2025/edreams-challenge)
+[![Clipboard Challenge](https://github-readme-stats.vercel.app/api/gist?id=29d2c29ea6250e37b8aca068aa2a03a5&theme=transparent)](https://gist.github.com/lc-2025/29d2c29ea6250e37b8aca068aa2a03a5/)
 
 ## Contributions
 Actively exploring open-source projects to contribute to the community. Stay tuned for updates.
