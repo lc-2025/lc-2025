@@ -34,8 +34,8 @@ Fullstack crypto e-commerce platform using TypeScript, Next.js, Express, GraphQL
 ## Coding Challenges
 Showcasing problem-solving skills through practical coding challenges.
 
-[![eDreams Challenge](https://github-readme-stats.vercel.app/api/pin/?username=lc-2025&repo=edreams-challenge&theme=transparent)](https://github.com/lc-2025/edreams-challenge)
 [![Clipboard Challenge](https://github-readme-stats.vercel.app/api/gist?id=29d2c29ea6250e37b8aca068aa2a03a5&theme=transparent)](https://gist.github.com/lc-2025/29d2c29ea6250e37b8aca068aa2a03a5/)
+[![eDreams Challenge](https://github-readme-stats.vercel.app/api/pin/?username=lc-2025&repo=edreams-challenge&theme=transparent)](https://github.com/lc-2025/edreams-challenge)
 
 ## Contributions
 Actively exploring open-source projects to contribute to the community. Stay tuned for updates.
