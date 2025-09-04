@@ -49,4 +49,4 @@ Actively exploring open-source projects to contribute to the community. Stay tun
 📇 Passionate about pushing the boundaries of fullstack development with React and Node.js. Reach out on [LinkedIn](https://linkedin.com/in/lucatide) to collaborate on exciting projects
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lc-2025&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-2025&theme=transparent&lang_count=20&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-2025&theme=transparent&lang_count=20)](https://github.com/anuraghazra/github-readme-stats)
