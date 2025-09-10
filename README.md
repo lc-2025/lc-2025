@@ -1,4 +1,3 @@
-![LC - Software Engineer Fullstack - React, Node.js, Typescript](https://media.licdn.com/dms/image/v2/D5616AQEsrTTj9UVhFA/profile-displaybackgroundimage-shrink_350_1400/B56Zh5WGSQHUAY-/0/1754382493569?e=1757548800&v=beta&t=DHr31SG5LMewlTl0kZkaWdxcpuN8qoeVV90JBei9Bn8 "LC - Software Engineer Fullstack - React, Node.js, Typescript")
 # Software Engineer
 **React, Node.js, Typescript**
 
