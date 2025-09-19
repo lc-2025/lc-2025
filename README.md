@@ -1,9 +1,9 @@
-# Software Engineer
+# Fullstack Software Engineer
 **React, Node.js, Typescript**
 
 ## About
 
-Software Engineer fullstack with 9+ years of experience, delivering 40+ projects, including a Vue/Laravel IT inventory app that optimized HR processing time by 50% and Italy’s leading whiskey e-commerce (2017-2019). Enhanced collaboration, adaptability, and time management skills through professional development in consulting, returning to tech with updated expertise in React, Node.js, and DevOps via self-study and certifications. Passionate about building scalable, user-focused solutions.
+Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects, including a Vue/Laravel IT inventory app that optimized HR processing time by 50% and Italy’s leading whiskey e-commerce (2017-2019). Enhanced collaboration, adaptability, and time management skills through professional development in consulting, returning to tech with updated expertise in React, Node.js, and DevOps via self-study and certifications. Passionate about building scalable, user-focused solutions.
 
 💬 "I had the opportunity to work alongside Luca and found in him a great capacity for cohesion and participation in the team, as well as excellent technical preparation and the ability to innovate and find the most suitable solution. Humanly, a very pleasant person with whom to have a chat in moments of exchanging ideas.” – Alessio Luparelli, CTO at Greylab
 
