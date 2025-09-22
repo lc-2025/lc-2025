@@ -11,8 +11,8 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 
 ### Personal Development | Freelance
 📅 January 2025 - Present
-- Built a fullstack portfolio with TypeScript, Next.js, GSAP, and Sanity, achieving a 95+ Lighthouse score for accessibility and performance, deployed via Vercel DevOps pipeline **[🔗 LC 2.0](https://github.com/lc-2025/lc-2.0)**
-- Developed a crypto e-commerce platform with TypeScript, Next.js, Express, GraphQL, and MongoDB, deployed on Vercel/Render with Docker **[🔗 eNeFTi](https://github.com/lc-2025/enefti)**
+- Built a JAMstack portfolio with TypeScript, Next.js, GSAP, and Sanity, achieving a 95+ Lighthouse score for accessibility and performance, deployed via Vercel DevOps pipeline **[🔗 LC 2.0](https://github.com/lc-2025/lc-2.0)**
+- Developed a fullstack crypto e-commerce platform with TypeScript, Next.js, Express, GraphQL, and MongoDB, deployed on Vercel/Render with Docker **[🔗 eNeFTi](https://github.com/lc-2025/enefti)**
 - Strengthened expertise in modern web development through self-study
 
 ### Gen (Avast/NortonLifeLock) | Senior Software Engineer
@@ -23,7 +23,7 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 
 ## Featured Projects
 ### [LC 2.0](https://github.com/lc-2025/lc-2.0)
-Fullstack portfolio built with TypeScript, Next.js, GSAP, and Sanity, optimized for responsive UI/UX and accessibility (95+ Lighthouse score). Deployed via Vercel with a DevOps pipeline.  
+JAMstack portfolio built with TypeScript, Next.js, GSAP, and Sanity, optimized for responsive UI/UX and accessibility (95+ Lighthouse score). Deployed via Vercel with a DevOps pipeline.  
 🛠️ [Tech Stack](https://github.com/lc-2025/lc-2.0?tab=readme-ov-file#stack) | [Website](https://lucati.dev)
 
 ### [eNeFTi](https://github.com/lc-2025/enefti)
