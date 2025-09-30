@@ -1,6 +1,8 @@
 # Fullstack Software Engineer
 **React, Node.js, Typescript**
 
+**2025 Edition**
+
 ## About
 
 Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects, including a Vue/Laravel IT inventory app that optimized HR processing time by 50% and Italy’s leading whiskey e-commerce (2017-2019). Enhanced collaboration, adaptability, and time management skills through professional development in consulting, returning to tech with updated expertise in React, Node.js, and DevOps via self-study and certifications. Passionate about building scalable, user-focused solutions.
