@@ -1,7 +1,11 @@
 # Fullstack Software Engineer
 **React, Node.js, Typescript**
 
-**2025 Edition**
+[![2025 Edition](https://img.shields.io/badge/Edition-2025-blue.svg)](https://github.com/lc-2025)
+
+Welcome to my **2025 Edition** GitHub profile.
+
+A reimagined space now elevated with new projects. Building on a foundation of a vibrant history of community engagement, this profile reflects my continued passion for crafting scalable, user-focused solutions.
 
 ## About
 
@@ -23,6 +27,13 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 - Developed 9+ web apps, extensions, and APIs using React, Svelte, TypeScript, Express, and MongoDB/PostgreSQL, reducing approval times by 66% with a JavaScript Slack/Teams notification extension.
 - Created a TypeScript NPM package for automated project configurations, streamlining cross-functional management.
 - Led R&D presentations for 20+ participants and mentored teams in pair-programming sessions, enhancing collaboration.
+
+### Previous Experience
+
+- **Self-Study 📅 July 2019 - May 2021**
+- **Full-Stack Web Developer, Greylab 📅 February 2017 - July 2019**
+- **Senior Front-End Web Developer 📅 April 2016 – December 2016**
+- **Owner, Karalis Konnection di Luca Cattide 📅 January 2013 – December 2016**
 
 ## Featured Projects
 ### [Storage Manager](https://github.com/lc-2025/storage-manager)
