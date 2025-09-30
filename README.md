@@ -13,6 +13,7 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 
 ### Personal Development | Freelance
 📅 January 2025 - Present
+- Created an open-source browser storage library with TypeScript, supporting both standalone and React hook usage, published as an NPM package with CI/CD via GitHub Actions **[🔗 Storage Manager](https://github.com/lc-2025/storage-manager)**
 - Built a JAMstack portfolio with TypeScript, Next.js, GSAP, and Sanity, achieving a 95+ Lighthouse score for accessibility and performance, deployed via Vercel DevOps pipeline **[🔗 LC 2.0](https://github.com/lc-2025/lc-2.0)**
 - Developed a fullstack crypto e-commerce platform with TypeScript, Next.js, Express, GraphQL, and MongoDB, deployed on Vercel/Render with Docker **[🔗 eNeFTi](https://github.com/lc-2025/enefti)**
 - Strengthened expertise in modern web development through self-study
@@ -24,6 +25,10 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 - Led R&D presentations for 20+ participants and mentored teams in pair-programming sessions, enhancing collaboration.
 
 ## Featured Projects
+### [Storage Manager](https://github.com/lc-2025/storage-manager)
+Browser storage library available as an NPM package, designed to simplify `localStorage` and `sessionStorage` management. Built with TypeScript, it supports both standalone and React hook usage, ensuring flexibility and seamless integration. Deployed on NPM with a CI/CD pipeline via GitHub Actions.  
+🛠️ [Tech Stack](https://github.com/lc-2025/storage-manager?tab=readme-ov-file#stack) | [NPM Package](https://npmjs.com/package/@lc-2025/storage-manager)
+
 ### [LC 2.0](https://github.com/lc-2025/lc-2.0)
 JAMstack portfolio built with TypeScript, Next.js, GSAP, and Sanity, optimized for responsive UI/UX and accessibility (95+ Lighthouse score). Deployed via Vercel with a DevOps pipeline.  
 🛠️ [Tech Stack](https://github.com/lc-2025/lc-2.0?tab=readme-ov-file#stack) | [Website](https://lucati.dev)
@@ -39,12 +44,14 @@ Showcasing problem-solving skills through practical coding challenges.
 [![eDreams Challenge](https://github-readme-stats.vercel.app/api/pin/?username=lc-2025&repo=edreams-challenge&theme=transparent)](https://github.com/lc-2025/edreams-challenge)
 
 ## Contributions
-Actively exploring open-source projects to contribute to the community. Stay tuned for updates.
+Actively contributing to the open-source community through my projects like [Storage Manager](https://github.com/lc-2025/storage-manager) (open for contributions) and exploring opportunities to collaborate on other repositories. Stay tuned for updates.
+
+[📦 View Storage Manager on NPM](https://npmjs.com/package/@lc-2025/storage-manager)
 
 ## Skills
-| **Languages** | **Frontend** | **Backend** | **Testing** | **DevOps** | **Tools** | **Other** |
-|---------------|--------------|-------------|-------------|------------|-----------|-----------|
-| JavaScript, TypeScript, Sass, SQL, GraphQL | React, Next.js, Redux, TailwindCSS, Material-UI, BEM, Motion, GSAP, SEO | Node.js, Express, Sanity, PostgreSQL, MongoDB, REST | Jest, Cypress, Testing Library | Docker, GitHub Actions, Google Cloud Platform, AWS, Vercel, Render | Workbox, Apollo, Postman, Swagger, Git, Husky, Google Analytics/Tag Manager/Cloud Console | Bash, GitFlow
+| **Languages** | **Frontend** | **Backend** | **Testing** | **DevOps** | **Tools** | **Other** | **Open Source** |
+|---------------|--------------|-------------|-------------|------------|-----------|-----------|-------------------|
+| JavaScript, TypeScript, Sass, SQL, GraphQL | React, Next.js, Redux, TailwindCSS, Material-UI, BEM, Motion, GSAP, SEO | Node.js, Express, Sanity, PostgreSQL, MongoDB, REST | Jest, Cypress, Testing Library | Docker, GitHub Actions, Google Cloud Platform, AWS, Vercel, Render | Workbox, Apollo, Postman, Swagger, Git, Husky, Google Analytics/Tag Manager/Cloud Console | Bash, GitFlow | NPM
 
 ## Connect
 📇 Passionate about pushing the boundaries of fullstack development with React and Node.js. Reach out on [LinkedIn](https://linkedin.com/in/lucatide) to collaborate on exciting projects
