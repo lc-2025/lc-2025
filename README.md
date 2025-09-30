@@ -37,7 +37,7 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 
 ## Featured Projects
 ### [Storage Manager](https://github.com/lc-2025/storage-manager)
-Browser storage library available as an NPM package, designed to simplify `localStorage` and `sessionStorage` management. Built with TypeScript, it supports both standalone and React hook usage, ensuring flexibility and seamless integration. Deployed on NPM with a CI/CD pipeline via GitHub Actions.  
+Browser storage library developed with TypeScript to simplify `Storage API` management. Deployed on NPM with CI/CD pipeline via GitHub Actions.  
 🛠️ [Tech Stack](https://github.com/lc-2025/storage-manager?tab=readme-ov-file#stack) | [NPM Package](https://npmjs.com/package/@lc-2025/storage-manager)
 
 ### [LC 2.0](https://github.com/lc-2025/lc-2.0)
