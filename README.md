@@ -32,7 +32,7 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 
 - **Self-Study 📅 July 2019 - May 2021**
 - **Full-Stack Web Developer, Greylab 📅 February 2017 - July 2019**
-- **Senior Front-End Web Developer 📅 April 2016 – December 2016**
+- **Senior Front-End Web Developer, laboratorio-a 📅 April 2016 – December 2016**
 - **Owner, Karalis Konnection di Luca Cattide 📅 January 2013 – December 2016**
 
 ## Featured Projects
