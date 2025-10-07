@@ -46,7 +46,7 @@ JAMstack portfolio built with TypeScript, Next.js, GSAP, and Sanity, optimized f
 
 ### [eNeFTi](https://github.com/lc-2025/enefti)
 Fullstack crypto e-commerce platform using TypeScript, Next.js, Express, GraphQL, and MongoDB, focused on usability and deployed on Vercel/Render with Docker.  
-🛠️ [Tech Stack](https://github.com/lc-2025/enefti?tab=readme-ov-file#stack) | [Live Demo](https://enefti-demo.com)
+🛠️ [Tech Stack](https://github.com/lc-2025/enefti?tab=readme-ov-file#stack) | [Live Demo](https://enefti-demo.vercel.app)
 
 ## Coding Challenges
 Showcasing problem-solving skills through practical coding challenges.
