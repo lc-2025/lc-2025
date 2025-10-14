@@ -17,6 +17,7 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 
 ### Personal Development | Freelance
 📅 January 2025 - Present
+- Implemented an open-source React component library with TypeScript... (TBD) **[🔗 Theme Switcher](https://github.com/lc-2025/theme-switcher)**
 - Created an open-source browser storage library with TypeScript, supporting both standalone and React hook usage, published as an NPM package with CI/CD via GitHub Actions **[🔗 Storage Manager](https://github.com/lc-2025/storage-manager)**
 - Built a JAMstack portfolio with TypeScript, Next.js, GSAP, and Sanity, achieving a 95+ Lighthouse score for accessibility and performance, deployed via Vercel DevOps pipeline **[🔗 LC 2.0](https://github.com/lc-2025/lc-2.0)**
 - Developed a fullstack crypto e-commerce platform with TypeScript, Next.js, Express, GraphQL, and MongoDB, deployed on Vercel/Render with Docker **[🔗 eNeFTi](https://github.com/lc-2025/enefti)**
@@ -36,6 +37,10 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 - **Owner, Karalis Konnection di Luca Cattide 📅 January 2013 – December 2016**
 
 ## Featured Projects
+### [Theme Switcher](https://github.com/lc-2025/theme-switcher)
+TBD
+🛠️ [Tech Stack](https://github.com/lc-2025/theme-switcher?tab=readme-ov-file#stack) | [NPM Package](https://npmjs.com/package/@lc-2025/theme-switcher)
+
 ### [Storage Manager](https://github.com/lc-2025/storage-manager)
 Browser storage library developed with TypeScript to simplify `Storage API` management. Deployed on NPM with CI/CD pipeline via GitHub Actions.  
 🛠️ [Tech Stack](https://github.com/lc-2025/storage-manager?tab=readme-ov-file#stack) | [NPM Package](https://npmjs.com/package/@lc-2025/storage-manager)
@@ -55,9 +60,9 @@ Showcasing problem-solving skills through practical coding challenges.
 [![eDreams Challenge](https://github-readme-stats.vercel.app/api/pin/?username=lc-2025&repo=edreams-challenge&theme=transparent)](https://github.com/lc-2025/edreams-challenge)
 
 ## Contributions
-Actively contributing to the open-source community through my projects like [Storage Manager](https://github.com/lc-2025/storage-manager) (open for contributions) and exploring opportunities to collaborate on other repositories. Stay tuned for updates.
+Actively contributing to the open-source community through my projects like [Theme Switcher](https://github.com/lc-2025/theme-switcher) (open for contributions) and exploring opportunities to collaborate on other repositories. Stay tuned for updates.
 
-[📦 View Storage Manager on NPM](https://npmjs.com/package/@lc-2025/storage-manager)
+[📦 View Theme Switcher on NPM](https://npmjs.com/package/@lc-2025/theme-switcher)
 
 ## Skills
 | **Languages** | **Frontend** | **Backend** | **Testing** | **DevOps** | **Tools** | **Other** | **Open Source** |
