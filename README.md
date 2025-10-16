@@ -25,9 +25,9 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 
 ### Gen (Avast/NortonLifeLock) | Senior Software Engineer
 📅 May 2021 - October 2023
-- Developed 9+ web apps, extensions, and APIs using React, Svelte, TypeScript, Express, and MongoDB/PostgreSQL, reducing approval times by 66% with a JavaScript Slack/Teams notification extension.
-- Created a TypeScript NPM package for automated project configurations, streamlining cross-functional management.
-- Led R&D presentations for 20+ participants and mentored teams in pair-programming sessions, enhancing collaboration.
+- Developed 9+ web apps, extensions, and APIs using React, Svelte, TypeScript, Express, and MongoDB/PostgreSQL, reducing approval times by 66% with a JavaScript Slack/Teams notification extension
+- Created a TypeScript NPM package for automated project configurations, streamlining cross-functional management
+- Led R&D presentations for 20+ participants and mentored teams in pair-programming sessions, enhancing collaboration
 
 ### Previous Experience
 
