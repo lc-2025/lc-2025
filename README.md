@@ -64,7 +64,7 @@ Exploring opportunities to collaborate on other repositories. Stay tuned for upd
 ## Skills
 | **Languages** | **Frontend** | **Backend** | **Testing** | **DevOps** | **Tools** | **Other** | **Open Source** |
 |---------------|--------------|-------------|-------------|------------|-----------|-----------|-------------------|
-| JavaScript, TypeScript, Sass, SQL, GraphQL | React, Next.js, Redux, TailwindCSS, Material-UI, BEM, Motion, GSAP, SEO | Node.js, Express, Sanity, PostgreSQL, MongoDB, REST | Jest, Cypress, Testing Library | Docker, GitHub Actions, Google Cloud Platform, AWS, Vercel, Render | Workbox, Apollo, Postman, Swagger, Git, Husky, Google Analytics/Tag Manager/Cloud Console | Bash, GitFlow | NPM
+| JavaScript, TypeScript, Sass, SQL, GraphQL | React, Next.js, Vite, Redux, TailwindCSS, Material-UI, BEM, Motion, GSAP, SEO | Node.js, Express, Sanity, PostgreSQL, MongoDB, REST | Jest, Cypress, Testing Library | Docker, GitHub Actions, Google Cloud Platform, AWS, Vercel, Render | Workbox, Apollo, Postman, Swagger, Git, Husky, Google Analytics/Tag Manager/Cloud Console | Bash, GitFlow | NPM
 
 ## Connect
 📇 Passionate about pushing the boundaries of fullstack development with React and Node.js. Reach out on [LinkedIn](https://linkedin.com/in/lucatide) to collaborate on exciting projects.
