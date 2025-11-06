@@ -9,7 +9,7 @@ A reimagined space now elevated with new projects. Building on a foundation of a
 
 ## About
 
-Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects, including a Vue/Laravel IT inventory app that optimized HR processing time by 50% and Italy’s leading whiskey e-commerce (2017-2019). Enhanced collaboration, adaptability, and time management skills through professional development in consulting, returning to tech with updated expertise in React, Node.js, and DevOps via self-study and certifications. Passionate about building scalable, user-focused solutions.
+Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects, including an IT inventory app that optimized HR processing time by 50% and Italy’s leading whiskey e-commerce (2017-2019). Enhanced collaboration, adaptability, and time management skills through professional development in consulting, returning to tech with updated expertise in React, Node.js, and DevOps via self-study and certifications. Passionate about building scalable, user-focused solutions.
 
 💬 "I had the opportunity to work alongside Luca and found in him a great capacity for cohesion and participation in the team, as well as excellent technical preparation and the ability to innovate and find the most suitable solution. Humanly, a very pleasant person with whom to have a chat in moments of exchanging ideas.” – Alessio Luparelli, CTO at Greylab
 
@@ -18,7 +18,7 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 ### Personal Development | Freelance
 📅 January 2025 - Present
 - Implemented an open-source theme-switching React component library with TypeScript, enabling seamless light/dark mode integration, published as an NPM package with CI/CD through GitHub Actions **[🔗 Theme Switcher](https://github.com/lc-2025/theme-switcher)**
-- Developed a fullstack crypto e-commerce platform with TypeScript, Next.js, Express, GraphQL, and MongoDB, deployed on Vercel/Render with Docker **[🔗 eNeFTi](https://github.com/lc-2025/enefti)**
+- Developed a fullstack crypto e-commerce platform with TypeScript, Next.js, Redux, Express, GraphQL, and MongoDB, deployed on Vercel/Render with Docker **[🔗 eNeFTi](https://github.com/lc-2025/enefti)**
 - Built a JAMstack portfolio with TypeScript, Next.js, GSAP, and Sanity, achieving a 95+ Lighthouse score for accessibility and performance, deployed via Vercel DevOps pipeline **[🔗 LC 2.0](https://github.com/lc-2025/lc-2.0)**
 - Participated in several coding challenges, creating fullstack apps with React, React Query/Router/i18n/Hook Form, Vite/Vitest, and Puppeteer, provided via Cloud services (Vercel/Render)
 - Created an open-source browser storage library with TypeScript, supporting both standalone and React hook usage, published as an NPM package with CI/CD via GitHub Actions **[🔗 Storage Manager](https://github.com/lc-2025/storage-manager)**
@@ -65,7 +65,7 @@ Exploring opportunities to collaborate on other repositories. Stay tuned for upd
 ## Skills
 | **Languages** | **Frontend** | **Backend** | **Testing** | **DevOps** | **Tools** | **Other** | **Open Source** |
 |---------------|--------------|-------------|-------------|------------|-----------|-----------|-------------------|
-| JavaScript, TypeScript, Sass, SQL, GraphQL | React, Next.js, Vite, Redux, TailwindCSS, Material-UI, BEM, Motion, GSAP, SEO | Node.js, Express, Sanity, PostgreSQL, MongoDB, REST | Jest, Cypress, Testing Library | Docker, GitHub Actions, Google Cloud Platform, AWS, Vercel, Render | Workbox, Apollo, Postman, Swagger, Git, Husky, Google Analytics/Tag Manager/Cloud Console | Bash, GitFlow | NPM
+| JavaScript, TypeScript, Sass, SQL, GraphQL | React, Next.js, Vite, Redux, TailwindCSS, Material-UI, BEM, Framer Motion, GSAP, SEO | Node.js, Express, Sanity, PostgreSQL, MongoDB, REST | Jest, Cypress, Testing Library, Vitest | Docker, GitHub Actions, Google Cloud Platform, AWS, Vercel, Render | Workbox, Apollo, Postman, Swagger, Git, Husky, Google Analytics/Tag Manager/Cloud Console | Bash, GitFlow | NPM
 
 ## Connect
 📇 Passionate about pushing the boundaries of fullstack development with React and Node.js. Reach out on [LinkedIn](https://linkedin.com/in/lucatide) to collaborate on exciting projects.
