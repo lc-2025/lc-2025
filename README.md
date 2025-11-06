@@ -18,9 +18,10 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 ### Personal Development | Freelance
 📅 January 2025 - Present
 - Implemented an open-source theme-switching React component library with TypeScript, enabling seamless light/dark mode integration, published as an NPM package with CI/CD through GitHub Actions **[🔗 Theme Switcher](https://github.com/lc-2025/theme-switcher)**
-- Created an open-source browser storage library with TypeScript, supporting both standalone and React hook usage, published as an NPM package with CI/CD via GitHub Actions **[🔗 Storage Manager](https://github.com/lc-2025/storage-manager)**
-- Built a JAMstack portfolio with TypeScript, Next.js, GSAP, and Sanity, achieving a 95+ Lighthouse score for accessibility and performance, deployed via Vercel DevOps pipeline **[🔗 LC 2.0](https://github.com/lc-2025/lc-2.0)**
 - Developed a fullstack crypto e-commerce platform with TypeScript, Next.js, Express, GraphQL, and MongoDB, deployed on Vercel/Render with Docker **[🔗 eNeFTi](https://github.com/lc-2025/enefti)**
+- Built a JAMstack portfolio with TypeScript, Next.js, GSAP, and Sanity, achieving a 95+ Lighthouse score for accessibility and performance, deployed via Vercel DevOps pipeline **[🔗 LC 2.0](https://github.com/lc-2025/lc-2.0)**
+- Participated in several coding challenges, creating fullstack apps with React, React Query/Router/i18n/Hook Form, Vite/Vitest, and Puppeteer, provided via Cloud services (Vercel/Render)
+- Created an open-source browser storage library with TypeScript, supporting both standalone and React hook usage, published as an NPM package with CI/CD via GitHub Actions **[🔗 Storage Manager](https://github.com/lc-2025/storage-manager)**
 - Strengthened expertise in modern web development through self-study
 
 ### Gen (Avast/NortonLifeLock) | Senior Software Engineer
