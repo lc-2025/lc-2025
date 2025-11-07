@@ -17,10 +17,10 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 
 ### Personal Development | Freelance
 📅 January 2025 - Present
-- Implemented an open-source theme-switching React component library with TypeScript, enabling seamless light/dark mode integration, published as an NPM package with CI/CD through GitHub Actions **[🔗 Theme Switcher](https://github.com/lc-2025/theme-switcher)**
 - Developed a fullstack crypto e-commerce platform with TypeScript, Next.js, Redux, Express, GraphQL, and MongoDB, deployed on Vercel/Render with Docker **[🔗 eNeFTi](https://github.com/lc-2025/enefti)**
 - Built a JAMstack portfolio with TypeScript, Next.js, GSAP, and Sanity, achieving a 95+ Lighthouse score for accessibility and performance, deployed to Vercel via DevOps pipeline **[🔗 LC 2.0](https://github.com/lc-2025/lc-2.0)**
-- Participated in several coding challenges, creating fullstack apps with React, React Query/Router/i18n/Hook Form, Vite/Vitest, and Puppeteer, provided through Cloud services (Vercel/Render)
+- Participated in several coding challenges, creating fullstack apps with React, React Query/Router/i18n/Hook Form, Vite/Vitest, and Puppeteer, provided through Cloud services (Vercel/Render) - i.e. **[🔗 Accessibility Scanner](https://github.com/lc-2025/accessibility-scanner)**
+- Implemented an open-source theme-switching React component library with TypeScript, enabling seamless light/dark mode integration, published as an NPM package with CI/CD through GitHub Actions **[🔗 Theme Switcher](https://github.com/lc-2025/theme-switcher)**
 - Created an open-source browser storage library with TypeScript, supporting both standalone and React hook usage, published as an NPM package with CI/CD via GitHub Actions **[🔗 Storage Manager](https://github.com/lc-2025/storage-manager)**
 - Strengthened expertise in modern web development through self-study
 
@@ -54,13 +54,14 @@ Showcasing problem-solving skills through practical coding challenges.
 [![eDreams Challenge](https://github-readme-stats.vercel.app/api/pin/?username=lc-2025&repo=edreams-challenge&theme=transparent)](https://github.com/lc-2025/edreams-challenge)
 
 ## Contributions
-Actively contributing to the open-source community through my projects, including [Storage Manager](https://github.com/lc-2025/storage-manager) and [Theme Switcher](https://github.com/lc-2025/theme-switcher) (open for contributions). 
+Actively contributing to the open-source community through my projects (open for contributions), including: 
+
+- [Theme Switcher](https://github.com/lc-2025/theme-switcher) 
+- [Storage Manager](https://github.com/lc-2025/storage-manager)
 
 Exploring opportunities to collaborate on other repositories. Stay tuned for updates.
 
-[📦 View Theme Switcher on NPM](https://npmjs.com/package/@lc-2025/theme-switcher)
-
-[📦 View Storage Manager on NPM](https://npmjs.com/package/@lc-2025/storage-manager)
+[📦 View packages on NPM](https://www.npmjs.com/~lc-2025)
 
 ## Skills
 | **Languages** | **Frontend** | **Backend** | **Testing** | **DevOps** | **Tools** | **Other** | **Open Source** |
