@@ -32,19 +32,19 @@ Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects
 
 ### Previous Experience
 
-- **Self-Study 📅 July 2019 - May 2021**
+- **Personal Development 📅 July 2019 - May 2021**
 - **Full-Stack Web Developer, Greylab 📅 February 2017 - July 2019**
 - **Senior Front-End Web Developer, laboratorio-a 📅 April 2016 – December 2016**
 - **Owner, Karalis Konnection di Luca Cattide 📅 January 2013 – December 2016**
 
 ## Featured Projects
-### [LC 2.0](https://github.com/lc-2025/lc-2.0)
-JAMstack portfolio built with TypeScript, Next.js, GSAP, and Sanity, optimized for responsive UI/UX and accessibility (95+ Lighthouse score). Deployed via Vercel with a DevOps pipeline.  
-🛠️ [Tech Stack](https://github.com/lc-2025/lc-2.0?tab=readme-ov-file#stack) | [Website](https://lucati.dev)
-
 ### [eNeFTi](https://github.com/lc-2025/enefti)
 Fullstack crypto e-commerce platform using TypeScript, Next.js, Express, GraphQL, and MongoDB, focused on usability and deployed on Vercel/Render with Docker.  
 🛠️ [Tech Stack](https://github.com/lc-2025/enefti?tab=readme-ov-file#stack) | [Live Demo](https://enefti-demo.vercel.app)
+
+### [LC 2.0](https://github.com/lc-2025/lc-2.0)
+JAMstack portfolio built with TypeScript, Next.js, GSAP, and Sanity, optimized for responsive UI/UX and accessibility (95+ Lighthouse score). Deployed via Vercel with a DevOps pipeline.  
+🛠️ [Tech Stack](https://github.com/lc-2025/lc-2.0?tab=readme-ov-file#stack) | [Website](https://lucati.dev)
 
 ## Coding Challenges
 Showcasing problem-solving skills through practical coding challenges.
