@@ -49,7 +49,7 @@ JAMstack portfolio built with TypeScript, Next.js, GSAP, and Sanity, optimized f
 ## Coding Challenges
 Showcasing problem-solving skills through practical coding challenges:
 
-- [Accessibility Scanner](https://github.com/lc-2025/accessibility-scanner)
+- [Accessibility Scanner](https://github.com/lc-2025/accessibility-scanner) | [Live Demo](https://accessibility-scanner-demo.vercel.app/)
 - [Clipboard Challenge](https://gist.github.com/lc-2025/29d2c29ea6250e37b8aca068aa2a03a5/)
 - [eDreams Challenge](https://github.com/lc-2025/edreams-challenge)
 
