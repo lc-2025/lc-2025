@@ -47,11 +47,11 @@ JAMstack portfolio built with TypeScript, Next.js, GSAP, and Sanity, optimized f
 🛠️ [Tech Stack](https://github.com/lc-2025/lc-2.0?tab=readme-ov-file#stack) | [Website](https://lucati.dev)
 
 ## Coding Challenges
-Showcasing problem-solving skills through practical coding challenges.
+Showcasing problem-solving skills through practical coding challenges:
 
-[![Accessibility Scanner](https://github-readme-stats.vercel.app/api/pin/?username=lc-2025&repo=accessibility-scanner&theme=transparent)](https://github.com/lc-2025/accessibility-scanner)
-[![Clipboard Challenge](https://github-readme-stats.vercel.app/api/gist?id=29d2c29ea6250e37b8aca068aa2a03a5&theme=transparent)](https://gist.github.com/lc-2025/29d2c29ea6250e37b8aca068aa2a03a5/)
-[![eDreams Challenge](https://github-readme-stats.vercel.app/api/pin/?username=lc-2025&repo=edreams-challenge&theme=transparent)](https://github.com/lc-2025/edreams-challenge)
+- [Accessibility Scanner](https://github.com/lc-2025/accessibility-scanner)
+- [Clipboard Challenge](https://gist.github.com/lc-2025/29d2c29ea6250e37b8aca068aa2a03a5/)
+- [eDreams Challenge](https://github.com/lc-2025/edreams-challenge)
 
 ## Contributions
 Actively contributing to the open-source community through my projects (open for contributions), including: 
