@@ -1,72 +1,37 @@
-# Fullstack Software Engineer
-**React, Node.js, Typescript**
+# Luca Cattide – Fullstack Engineer
 
-[![2025 Edition](https://img.shields.io/badge/Edition-2025-blue.svg)](https://github.com/lc-2025)
+**Next.js · React · Node.js · TypeScript**
+ex-Gen Digital (Avast/NortonLifeLock) · 9+ years · Available worldwide
 
-Welcome to my **2025 Edition** GitHub profile.
+> “Real professional with deep knowledge of TypeScript … able to solve even complicated tasks.”  
+> — Jiří Suška, Senior Manager at Gen Digital
 
-A reimagined space now elevated with new projects. Building on a foundation of a vibrant history of community engagement, this profile reflects my continued passion for crafting scalable, user-focused solutions.
+## Recent Projects (2024–2025)
 
-## About
+- **eNeFTi** – NFT marketplace demo  
+  Next.js · GraphQL · Docker · CoinGecko API  
+  [Code](https://github.com/lc-2025/enefti) · [Live](https://enefti-demo.vercel.app)
 
-Fullstack Software Engineer with 9+ years of experience, delivering 40+ projects, including an IT inventory app that optimized HR processing time by 50% and Italy’s leading whiskey e-commerce (2017-2019). Enhanced collaboration, adaptability, and time management skills through professional development in consulting, returning to tech with updated expertise in React, Node.js, and DevOps via self-study and certifications. Passionate about building scalable, user-focused solutions.
+- **LC 2.0** – Personal portfolio  
+  Next.js · Tailwind · GSAP · Sanity · 95%+ Lighthouse  
+  [Code](https://github.com/lc-2025/lc-2.0) · [Live](https://lucati.dev)
 
-💬 "I had the opportunity to work alongside Luca and found in him a great capacity for cohesion and participation in the team, as well as excellent technical preparation and the ability to innovate and find the most suitable solution. Humanly, a very pleasant person with whom to have a chat in moments of exchanging ideas.” – Alessio Luparelli, CTO at Greylab
+- **Accessibility Scanner** – Fullstack coding challenge  
+  React · React Query · Puppeteer  
+  [Code](https://github.com/lc-2025/accessibility-scanner) · [Demo](https://accessibility-scanner-demo.vercel.app/)
 
-## Work
+- **Open-source NPM packages** – 2 libraries (60+ downloads on launch)  
+  [Theme Switcher](https://github.com/lc-2025/theme-switcher) · [Storage Manager](https://github.com/lc-2025/storage-manager) · [npm](https://npmjs.com/~lc-2025)
 
-### Personal Development | Freelance
-📅 January 2025 - Present
-- Developed a fullstack crypto e-commerce platform with TypeScript, Next.js, Redux, Express, GraphQL, and MongoDB, deployed on Vercel/Render with Docker **[🔗 eNeFTi](https://github.com/lc-2025/enefti)**
-- Built a JAMstack portfolio with TypeScript, Next.js, GSAP, and Sanity, achieving a 95+ Lighthouse score for accessibility and performance, deployed to Vercel via DevOps pipeline **[🔗 LC 2.0](https://github.com/lc-2025/lc-2.0)**
-- Participated in several coding challenges, creating fullstack apps with React, React Query/Router/i18n/Hook Form, Vite/Vitest, and Puppeteer, provided through Cloud services (Vercel/Render) - i.e. **[🔗 Accessibility Scanner](https://github.com/lc-2025/accessibility-scanner)**
-- Implemented an open-source theme-switching React component library with TypeScript, enabling seamless light/dark mode integration, published as an NPM package with CI/CD through GitHub Actions **[🔗 Theme Switcher](https://github.com/lc-2025/theme-switcher)**
-- Created an open-source browser storage library with TypeScript, supporting both standalone and React hook usage, published as an NPM package with CI/CD via GitHub Actions **[🔗 Storage Manager](https://github.com/lc-2025/storage-manager)**
-- Strengthened expertise in modern web development through self-study
+## Previous Highlights
 
-### Gen (Avast/NortonLifeLock) | Senior Software Engineer
-📅 May 2021 - October 2023
-- Developed 9+ web apps, extensions, and APIs using React, Svelte, TypeScript, Express, and MongoDB/PostgreSQL, reducing approval times by 66% with a JavaScript Slack/Teams notification extension
-- Created a TypeScript NPM package for automated project configurations, streamlining cross-functional management
-- Led R&D presentations for 20+ participants and mentored teams in pair-programming sessions, enhancing collaboration
-
-### Previous Experience
-
-- **Personal Development 📅 July 2019 - May 2021**
-- **Full-Stack Web Developer, Greylab 📅 February 2017 - July 2019**
-- **Senior Front-End Web Developer, laboratorio-a 📅 April 2016 – December 2016**
-- **Owner, Karalis Konnection di Luca Cattide 📅 January 2013 – December 2016**
-
-## Featured Projects
-### [eNeFTi](https://github.com/lc-2025/enefti)
-Fullstack crypto e-commerce platform using TypeScript, Next.js, Express, GraphQL, and MongoDB, focused on usability and deployed on Vercel/Render with Docker.  
-🛠️ [Tech Stack](https://github.com/lc-2025/enefti?tab=readme-ov-file#stack) | [Live Demo](https://enefti-demo.vercel.app)
-
-### [LC 2.0](https://github.com/lc-2025/lc-2.0)
-JAMstack portfolio built with TypeScript, Next.js, GSAP, and Sanity, optimized for responsive UI/UX and accessibility (95+ Lighthouse score). Deployed via Vercel with a DevOps pipeline.  
-🛠️ [Tech Stack](https://github.com/lc-2025/lc-2.0?tab=readme-ov-file#stack) | [Website](https://lucati.dev)
-
-## Coding Challenges
-Showcasing problem-solving skills through practical coding challenges:
-
-- [Accessibility Scanner](https://github.com/lc-2025/accessibility-scanner) | [Live Demo](https://accessibility-scanner-demo.vercel.app/)
-- [Clipboard Challenge](https://gist.github.com/lc-2025/29d2c29ea6250e37b8aca068aa2a03a5/)
-- [eDreams Challenge](https://github.com/lc-2025/edreams-challenge)
-
-## Contributions
-Actively contributing to the open-source community through my projects (open for contributions), including: 
-
-- [Theme Switcher](https://github.com/lc-2025/theme-switcher) 
-- [Storage Manager](https://github.com/lc-2025/storage-manager)
-
-Exploring opportunities to collaborate on other repositories. Stay tuned for updates.
-
-[📦 View packages on NPM](https://www.npmjs.com/~lc-2025)
+- **Gen Digital** (2021–2023) → promoted Senior, 9+ fullstack features & browser extensions, Slack/Teams integration (−66 % approval time)
+- **Greylab** (2017–2019) → developed Italy’s #1 whiskey e-commerce platform
 
 ## Skills
-| **Languages** | **Frontend** | **Backend** | **Testing** | **DevOps** | **Tools** | **Other** | **Open Source** |
-|---------------|--------------|-------------|-------------|------------|-----------|-----------|-------------------|
-| JavaScript, TypeScript, Sass, SQL, GraphQL | React, Next.js, Vite, Redux, TailwindCSS, Material-UI, BEM, Framer Motion, GSAP, SEO | Node.js, Express, Sanity, PostgreSQL, MongoDB, REST | Jest, Cypress, Testing Library, Vitest | Docker, GitHub Actions, Google Cloud Platform, AWS, Vercel, Render | Workbox, Apollo, Postman, Swagger, Git, Husky, Google Analytics/Tag Manager/Cloud Console | Bash, GitFlow | NPM
 
-## Connect
-📇 Passionate about pushing the boundaries of fullstack development with React and Node.js. Reach out on [LinkedIn](https://linkedin.com/in/lucatide) to collaborate on exciting projects.
+TypeScript · Next.js · React · Node.js · GraphQL · Docker · PostgreSQL · MongoDB · Jest · GitHub Actions · Tailwind · GSAP
+
+Open to full-time · contract · freelance – on-site / hybrid or remote (EU work rights)
+
+Reach me on [LinkedIn ↗](https://linkedin.com/in/lucatide)
