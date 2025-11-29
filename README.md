@@ -1,7 +1,7 @@
 # Luca Cattide – Fullstack Engineer
 
 **Next.js · React · Node.js · TypeScript**
-ex-Gen Digital (Avast/NortonLifeLock) · 9+ years · Available worldwide
+| ex-Gen Digital (Avast/NortonLifeLock) · 9+ years · Available worldwide
 
 > “Real professional with deep knowledge of TypeScript … able to solve even complicated tasks.”  
 > — Jiří Suška, Senior Manager at Gen Digital
