@@ -6,7 +6,7 @@
 > “Real professional with deep knowledge of TypeScript … able to solve even complicated tasks.”  
 > — Jiří Suška, Senior Manager at Gen Digital
 
-## Recent Projects (2024–2025)
+## Recent Projects (2025)
 
 - **eNeFTi** – NFT marketplace demo  
   Next.js · GraphQL · Docker · CoinGecko API  
