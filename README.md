@@ -10,7 +10,7 @@
 
 - **eNeFTi** – NFT marketplace demo  
   Next.js · GraphQL · Docker · CoinGecko API  
-  [Code](https://github.com/lc-2025/enefti) · [Live](https://enefti-demo.vercel.app)
+  [Code](https://github.com/lc-2025/enefti) · [Demo](https://enefti-demo.vercel.app)
 
 - **LC 2.0** – Personal portfolio  
   Next.js · Tailwind · GSAP · Sanity · 95%+ Lighthouse  
