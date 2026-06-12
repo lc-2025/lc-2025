@@ -1,4 +1,4 @@
-# Luca Cattide – Fullstack Engineer
+# LC – Fullstack Engineer
 
 **Next.js · React · Node.js · TypeScript**
 | ex-Gen Digital (Avast/NortonLifeLock) · 9+ years · Available worldwide
