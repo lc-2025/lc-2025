@@ -14,7 +14,7 @@
 
 - **LC 2.0** – Personal portfolio  
   Next.js · Tailwind · GSAP · Sanity · 95%+ Lighthouse  
-  [Code](https://github.com/lc-2025/lc-2.0) · [Live](https://lucati.dev)
+  [Code](https://github.com/lc-2025/lc-2.0) · [Live](https://lucatide.vercel.app)
 
 - **Accessibility Scanner** – Fullstack coding challenge  
   React · React Query · Puppeteer  
