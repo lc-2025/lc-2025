@@ -10,14 +10,21 @@ I help product, gaming, and interactive engineering teams turn complex web platf
 
 ### Selected Projects & Open Source
 
-* **[LC 2.0 – Interactive Portfolio](https://lucati.vercel.app)** · `Next.js` · `TailwindCSS` · `GSAP` · `Sanity CMS`
+* **LC 2.0 – Interactive Portfolio** · `Next.js` · `TailwindCSS` · `GSAP` · `Sanity CMS`
   Personal web platform achieving **95%+ Lighthouse** performance and accessibility scores.
-* **[Accessibility Scanner](https://github.com)** · `React` · `TanStack Query` · `Puppeteer`
+  → **[Live Site](https://lucatide.vercel.app)** · **[Source Code](https://github.com/lc-2025/lc-2.0)**
+
+* **Accessibility Scanner** · `React` · `TanStack Query` · `Puppeteer`
   Automated WCAG compliance auditing tool for live web applications.
-* **[eNeFTi – Real-Time Digital Assets Storefront](https://vercel.app)** · `TypeScript` · `Next.js` · `GraphQL` · `Docker`
+  → **[Live Demo](https://accessibility-scanner-demo.vercel.app)** · **[Source Code](https://github.com/lc-2025/accessibility-scanner)**
+
+* **eNeFTi – Real-Time Digital Assets Storefront** · `TypeScript` · `Next.js` · `GraphQL` · `Docker`
   Interactive storefront with real-time CoinGecko API pricing feeds across 100+ assets.
+  → **[Live Demo](https://enefti-demo.vercel.app)** · **[Source Code](https://github.com/lc-2025/enefti)**
+
 * **Open-Source NPM Packages** · `TypeScript`
-  Author of **[theme-switcher](https://npmjs.com)** and **[storage-manager](https://npmjs.com)** (60+ downloads in launch week).
+  Lightweight, zero-dependency browser utilities (**60+ downloads in launch week**).
+  → **[theme-switcher (npm)](https://www.npmjs.com/package/@lc-2025/theme-switcher)** · **[storage-manager (npm)](https://www.npmjs.com/package/@lc-2025/storage-manager)**
 
 ---
 
