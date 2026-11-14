@@ -35,7 +35,7 @@ I help product, gaming, and interactive engineering teams turn complex web platf
 ---
 
 ### Core Stack
-`TypeScript` · `JavaScript (ES2024+)` · `React` · `Next.js` · `TailwindCSS` · `shadcn/ui` · `TanStack Query` · `Node.js` · `GraphQL` · `MOngoDB` · `Docker` · `GitHub Actions` · `Turborepo` · `GSAP`
+`TypeScript` · `JavaScript (ES2024+)` · `React` · `Next.js` · `TailwindCSS` · `shadcn/ui` · `TanStack Query` · `Node.js` · `GraphQL` · `MongoDB` · `Docker` · `GitHub Actions` · `Turborepo` · `GSAP`
 
 ---
 
