@@ -1,37 +1,36 @@
-# LC – Fullstack Engineer
+### Hi, I'm LC — Senior Frontend & Web Platform Engineer
 
-**Next.js · React · Node.js · TypeScript**
-| ex-Gen Digital (Avast/NortonLifeLock) · 9+ years · Available worldwide
+I help product, gaming, and interactive engineering teams turn complex web platforms and rapid prototypes into fast, resilient, production-grade user interfaces (**10+ years experience** · ex-Gen Digital / Avast).
 
-> “Real professional with deep knowledge of TypeScript … able to solve even complicated tasks.”  
-> — Jiří Suška, Senior Manager at Gen Digital
+> *"Real professional with deep knowledge of TypeScript ... able to solve even complicated tasks."*
+> 
+> — **Jiří Suška**, Senior Manager at Gen Digital
 
-## Recent Projects (2025)
+---
 
-- **eNeFTi** – NFT marketplace demo  
-  Next.js · GraphQL · Docker · CoinGecko API  
-  [Code](https://github.com/lc-2025/enefti) · [Demo](https://enefti-demo.vercel.app)
+### Selected Projects & Open Source
 
-- **LC 2.0** – Personal portfolio  
-  Next.js · Tailwind · GSAP · Sanity · 95%+ Lighthouse  
-  [Code](https://github.com/lc-2025/lc-2.0) · [Live](https://lucatide.vercel.app)
+* **[LC 2.0 – Interactive Portfolio](https://lucati.dev)** · `Next.js` · `TailwindCSS` · `GSAP` · `Sanity CMS`
+  Personal web platform achieving **95%+ Lighthouse** performance and accessibility scores.
+* **[Accessibility Scanner](https://github.com)** · `React` · `TanStack Query` · `Puppeteer`
+  Automated WCAG compliance auditing tool for live web applications.
+* **[eNeFTi – Real-Time Digital Assets Storefront](https://vercel.app)** · `TypeScript` · `Next.js` · `GraphQL` · `Docker`
+  Interactive storefront with real-time CoinGecko API pricing feeds across 100+ assets.
+* **Open-Source NPM Packages** · `TypeScript`
+  Author of **[theme-switcher](https://npmjs.com)** and **[storage-manager](https://npmjs.com)** (60+ downloads in launch week).
 
-- **Accessibility Scanner** – Fullstack coding challenge  
-  React · React Query · Puppeteer  
-  [Code](https://github.com/lc-2025/accessibility-scanner) · [Demo](https://accessibility-scanner-demo.vercel.app/)
+---
 
-- **Open-source NPM packages** – 2 libraries (60+ downloads on launch)  
-  [Theme Switcher](https://github.com/lc-2025/theme-switcher) · [Storage Manager](https://github.com/lc-2025/storage-manager) · [npm](https://npmjs.com/~lc-2025)
+### Career Highlights
+* **Cyberloop (2026):** Senior Frontend & Platform Engineer (Fullstack & Security Consultant) — Re-architected an early-stage prototype into a production-ready multi-tenant SaaS in **6 months**; standardized UI systems and CI/CD security gates across **7 projects** (**0 critical/high vulnerabilities**).
+* **Gen Digital (2021–2023):** Promoted to Senior Software Engineer — Shipped 9+ web apps/extensions, cut workflow approval time by **66%** (−25% latency), and eliminated **>90%** of config helpdesk tickets via internal NPM tooling.
 
-## Previous Highlights
+---
 
-- **Gen Digital** (2021–2023) → promoted Senior, 9+ fullstack features & browser extensions, Slack/Teams integration (−66 % approval time)
-- **Greylab** (2017–2019) → developed Italy’s #1 whiskey e-commerce platform
+### Core Stack
+`TypeScript` · `JavaScript (ES2024+)` · `React` · `Next.js` · `TailwindCSS` · `shadcn/ui` · `TanStack Query` · `Node.js` · `GraphQL` · `MOngoDB` · `Docker` · `GitHub Actions` · `Turborepo` · `GSAP`
 
-## Skills
+---
 
-TypeScript · Next.js · React · Node.js · GraphQL · Docker · PostgreSQL · MongoDB · Jest · GitHub Actions · Tailwind · GSAP
-
-Open to full-time · contract · freelance – on-site / hybrid or remote (EU work rights)
-
-Reach me on [LinkedIn ↗](https://linkedin.com/in/lucatide)
+**Open to 100% Remote Full-Time roles (EMEA / CET-friendly · EU work rights)**
+[Portfolio](https://lucati.vercel.app) · [LinkedIn](https://linkedin.com)
