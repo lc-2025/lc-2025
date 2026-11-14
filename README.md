@@ -10,7 +10,7 @@ I help product, gaming, and interactive engineering teams turn complex web platf
 
 ### Selected Projects & Open Source
 
-* **[LC 2.0 – Interactive Portfolio](https://lucati.dev)** · `Next.js` · `TailwindCSS` · `GSAP` · `Sanity CMS`
+* **[LC 2.0 – Interactive Portfolio](https://lucati.vercel.app)** · `Next.js` · `TailwindCSS` · `GSAP` · `Sanity CMS`
   Personal web platform achieving **95%+ Lighthouse** performance and accessibility scores.
 * **[Accessibility Scanner](https://github.com)** · `React` · `TanStack Query` · `Puppeteer`
   Automated WCAG compliance auditing tool for live web applications.
