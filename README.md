@@ -40,4 +40,4 @@ I help product, gaming, and interactive engineering teams turn complex web platf
 ---
 
 **Open to 100% Remote Full-Time roles (EMEA / CET-friendly · EU work rights)**
-[Portfolio](https://lucati.vercel.app) · [LinkedIn](https://linkedin.com)
+[Portfolio](https://lucatide.vercel.app) · [LinkedIn](https://linkedin.com/in/lucatide)
